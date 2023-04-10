@@ -54,6 +54,7 @@
     {"id":{"name":"Sala1","path":"rooms/Sala1/Sala1.yy",},"order":0,},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":0,},
     {"id":{"name":"credential","path":"sprites/credential/credential.yy",},"order":0,},
+    {"id":{"name":"obj_character","path":"objects/obj_character/obj_character.yy",},"order":0,},
     {"id":{"name":"server","path":"sprites/server/server.yy",},"order":0,},
     {"id":{"name":"floor_room1","path":"sprites/floor_room1/floor_room1.yy",},"order":0,},
     {"id":{"name":"chair","path":"sprites/chair/chair.yy",},"order":0,},

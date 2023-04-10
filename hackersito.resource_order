@@ -38,6 +38,7 @@
     {"name":"Sala1","order":1,"path":"rooms/Sala1/Sala1.yy",},
     {"name":"Path1","order":2,"path":"paths/Path1/Path1.yy",},
     {"name":"credential","order":37,"path":"sprites/credential/credential.yy",},
+    {"name":"obj_character","order":9,"path":"objects/obj_character/obj_character.yy",},
     {"name":"server","order":38,"path":"sprites/server/server.yy",},
     {"name":"floor_room1","order":1,"path":"sprites/floor_room1/floor_room1.yy",},
     {"name":"chair","order":4,"path":"sprites/chair/chair.yy",},
