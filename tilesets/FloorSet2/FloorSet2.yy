@@ -15,10 +15,7 @@
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
-  "spriteId": {
-    "name": "Sprite15",
-    "path": "sprites/Sprite15/Sprite15.yy",
-  },
+  "spriteId": null,
   "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
