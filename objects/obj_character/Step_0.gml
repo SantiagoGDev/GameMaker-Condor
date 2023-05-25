@@ -1,4 +1,3 @@
-// Evento Create del objeto "player"
 // Establece la velocidad y la gravedad
 // Evento Create del objeto "obj_character"
 vsp = 0; // Inicializa la variable "vsp" con un valor predeterminado de 0
